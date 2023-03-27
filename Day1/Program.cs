@@ -7,6 +7,7 @@ internal class Program
     private static void Main(string[] args)
     {
         part1();
+        part2();
 
         
     }
