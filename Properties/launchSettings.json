@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Advent_Of_Code_2022": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
