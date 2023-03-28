@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-internal class Program
+internal class ProgramDay1
 {
     private static void Main(string[] args)
     {
