@@ -4,7 +4,7 @@ using System.Linq;
 
 internal class ProgramDay2
 {
-    enum Choice { Rock, Paper, Scissors };
+    
 
     private static void Main(string[] args)
     {
